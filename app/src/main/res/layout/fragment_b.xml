@@ -9,7 +9,7 @@
         android:layout_gravity="center_horizontal|center_vertical"
         android:layout_marginTop="20dip"
         android:background="@android:color/holo_blue_dark"
-        android:text="."
+        android:text="@string/waiting"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="30dip" />
+        android:textSize="30sp" />
 </LinearLayout>
